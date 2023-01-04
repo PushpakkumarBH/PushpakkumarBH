@@ -5,7 +5,17 @@
 <!-- Using Markdown to add content and formatting to your profile -->
 # Pushpakkumar BH
 
-A software developer with a passion for creating intuitive and efficient solutions.
+Cloud enthusiast and full-stack developer with a passion for automating infrastructure and building scalable applications. Skilled in Node.js, Python, and AWS. Always looking to learn and tackle new challenges.
+
+## Education
+- Sri Siddhartha Institute of Technology (2019 - Present)
+  - Bachelor's Degree in Electronics and communication | CGPA 8.35
+
+- Global PU College (2017 - 2019)
+ - PCMC's | Scored 71.34%
+
+- Sri Marikamba Govt. High School (2016-2017)
+ - SSLC | Scored 87.36%
 
 ## Skills
 - Python
@@ -13,6 +23,11 @@ A software developer with a passion for creating intuitive and efficient solutio
 - NodeJS
 - AWS Cloud Practioner
 - Docker
+
+## About My Skills
+- AWS: Experienced in using AWS services such as EC2,IAM, S3, Lambda, and CloudFormation to build and deploy cloud-based applications.
+- Node.js: Proficient in building server-side applications using Node.js and Express.
+- Python: Skilled in using Python for both back-end development and data analysis.
 
 ## Experience
 - Secretary @ SSIT-IEEE (2022-Present)
