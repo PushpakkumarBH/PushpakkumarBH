@@ -1,17 +1,4 @@
-<!-- Using HTML and CSS to customize the appearance of your profile -->
-<style>
-  body {
-    background-color: #333;
-    color: #fff;
-    font-family: 'Roboto', sans-serif;
-  }
-  h1, h2, h3 {
-    color: #fff;
-  }
-  a {
-    color: #1e90ff;
-  }
-</style>
+
 
 <!-- Using Markdown to add content and formatting to your profile -->
 # Pushpakkumar BH
@@ -45,22 +32,3 @@ A software developer with a passion for creating intuitive and efficient solutio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpakkumarBH)](https://github.com/PushpakkumarBH)
 
-<!-- Using JavaScript to add an interactive element to your profile -->
-## Fun Fact
-
-<button onclick="displayFact()">Click here to see a fun fact</button>
-
-<div id="fact"></div>
-
-<script>
-  const facts = [
-    "I have climbed to the top of a mountain.",
-    "I can play the guitar.",
-    "I am enthusiast coder."
-  ];
-
-  function displayFact() {
-    const fact = facts[Math.floor(Math.random() * facts.length)];
-    document.getElementById("fact").innerHTML = fact;
-  }
-</script>
