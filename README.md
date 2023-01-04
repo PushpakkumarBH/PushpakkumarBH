@@ -22,7 +22,7 @@ A software developer with a passion for creating intuitive and efficient solutio
 
 ## Contact
 - Email: pushpak696@gmail.com
-- LinkedIn: [Pushpakkumar BH](https://www.linkedin.com/in/your-name/](https://www.linkedin.com/in/pushpakkumar-bh-4555a11b0)
+- LinkedIn: [PushpakkumarBH](https://www.linkedin.com/in/pushpakkumar-bh-4555a11b0)
 - Twitter: [@pushpak696](https://twitter.com/pushpak696)
 
 <!-- Using a GitHub widget to showcase your activity and contributions -->
