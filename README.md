@@ -8,14 +8,14 @@
 Cloud enthusiast and full-stack developer with a passion for automating infrastructure and building scalable applications. Skilled in Node.js, Python, and AWS. Always looking to learn and tackle new challenges.
 
 ## Education
-- Sri Siddhartha Institute of Technology (2019 - Present)
-   - Bachelor's Degree in Electronics and communication | CGPA 8.35
+* Sri Siddhartha Institute of Technology (2019 - Present)
+   ** Bachelor's Degree in Electronics and communication | CGPA 8.35
 
-- Global PU College (2017 - 2019)
-   - PCMC's | Scored 71.34%
+* Global PU College (2017 - 2019)
+   ** PCMC's | Scored 71.34%
 
-- Sri Marikamba Govt. High School (2016-2017)
-   - SSLC | Scored 87.36%
+* Sri Marikamba Govt. High School (2016-2017)
+   ** SSLC | Scored 87.36%
 
 ## Skills
 - Python
@@ -24,10 +24,21 @@ Cloud enthusiast and full-stack developer with a passion for automating infrastr
 - AWS Cloud Practioner
 - Docker
 
-## About My Skills
-- AWS: Experienced in using AWS services such as EC2,IAM, S3, Lambda, and CloudFormation to build and deploy cloud-based applications.
-- Node.js: Proficient in building server-side applications using Node.js and Express.
-- Python: Skilled in using Python for both back-end development and data analysis.
+<style>
+  h2 {
+    color: blue;
+  }
+  p {
+    font-size: 18px;
+  }
+</style>
+
+<div style="background-color: lightgray; padding: 20px;">
+  <h2>About My Skills</h2>
+  <p>AWS: Experienced in using AWS services such as EC2,IAM, S3, Lambda, and CloudFormation to build and deploy cloud-based applications.</p>
+  <p>Node.js: Proficient in building server-side applications using Node.js and Express.</p>
+  <p>Python: Skilled in using Python for both back-end development and data analysis.</p>
+</div>
 
 ## Experience
 - Secretary @ SSIT-IEEE (2022-Present)
