@@ -1,33 +1,17 @@
-<!-- Using HTML and CSS to style the profile like a terminal -->
+<!-- Using HTML and CSS to customize the appearance of your profile -->
 <style>
   body {
-    background-color: #000;
+    background-color: #333;
     color: #fff;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto', sans-serif;
   }
-  pre {
-    margin: 0;
-  }
-  .command {
-    color: #33ff77;
-  }
-  .output {
+  h1, h2, h3 {
     color: #fff;
+  }
+  a {
+    color: #1e90ff;
   }
 </style>
-
-<!-- Using JavaScript to simulate terminal commands and output -->
-<pre>
-  <span class="command">$ cd portfolio</span>
-  <br>
-  <span class="command">$ ls</span>
-  <br>
-  <span class="output">index.html  css  js  images</span>
-  <br>
-  <span class="command">$ cat index.html</span>
-  <br>
-  <span class="output">&lt;!-- Your profile content goes here --&gt;</span>
-</pre>
 
 <!-- Using Markdown to add content and formatting to your profile -->
 # Your Name
@@ -62,4 +46,25 @@ A software developer with a passion for creating intuitive and efficient solutio
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
 
-[![Top Langs](https://
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME)](https://github.com/USERNAME)
+
+<!-- Using JavaScript to add an interactive element to your profile -->
+## Fun Fact
+
+<button onclick="displayFact()">Click here to see a fun fact</button>
+
+<div id="fact"></div>
+
+<script>
+  const facts = [
+    "I am a certified scuba diver.",
+    "I have climbed to the top of a mountain.",
+    "I can play the piano.",
+    "I have traveled to 5 different countries."
+  ];
+
+  function displayFact() {
+    const fact = facts[Math.floor(Math.random() * facts.length)];
+    document.getElementById("fact").innerHTML = fact;
+  }
+</script>
