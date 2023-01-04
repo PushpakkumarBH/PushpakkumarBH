@@ -1,4 +1,6 @@
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=PushpakkumarBH&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi"/>
+</p>
 
 <!-- Using Markdown to add content and formatting to your profile -->
 # Pushpakkumar BH
@@ -32,3 +34,12 @@ A software developer with a passion for creating intuitive and efficient solutio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpakkumarBH)](https://github.com/PushpakkumarBH)
 
+hi 
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laksh262001&show_icons=true&locale=en&layout=compact" alt="Laksh262001" />
+</p>
+
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Laksh262001&show_icons=true&locale=en" alt="Laksh262001" >
+</p>
