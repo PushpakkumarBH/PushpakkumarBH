@@ -1,5 +1,5 @@
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=PushpakkumarBH&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi"/>
+<img src="https://komarev.com/ghpvc/?username=PushpakkumarBH&label=Profile%20views&color=0e75b6&style=flat" alt="Pushpak"/>
 </p>
 
 <!-- Using Markdown to add content and formatting to your profile -->
@@ -10,12 +10,12 @@ A software developer with a passion for creating intuitive and efficient solutio
 ## Skills
 - Python
 - HTML/CSS
-- JavaScript
+- NodeJS
+- AWS Cloud Practioner
+- Docker
 
 ## Experience
-<!-- - Software Developer Intern at XYZ Company (Summer 2020) -->
-<!-- - Full-Stack Developer at ABC Company (2019-2020) -->
-- Secretary @ SSIT-IEEE
+- Secretary @ SSIT-IEEE (2022-Present)
 
 ## Projects
 - [Movie-Timez](https://github.com/PushpakkumarBH/Movie-Timez) - The Online Movie Ticket Booking System allows users to order tickets for a show and gather information about movies and venues. 
@@ -34,12 +34,3 @@ A software developer with a passion for creating intuitive and efficient solutio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpakkumarBH)](https://github.com/PushpakkumarBH)
 
-hi 
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laksh262001&show_icons=true&locale=en&layout=compact" alt="Laksh262001" />
-</p>
-
-<p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Laksh262001&show_icons=true&locale=en" alt="Laksh262001" >
-</p>
