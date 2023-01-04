@@ -9,13 +9,13 @@ Cloud enthusiast and full-stack developer with a passion for automating infrastr
 
 ## Education
 - Sri Siddhartha Institute of Technology (2019 - Present)
-  - Bachelor's Degree in Electronics and communication | CGPA 8.35
+   - Bachelor's Degree in Electronics and communication | CGPA 8.35
 
 - Global PU College (2017 - 2019)
- - PCMC's | Scored 71.34%
+   - PCMC's | Scored 71.34%
 
 - Sri Marikamba Govt. High School (2016-2017)
- - SSLC | Scored 87.36%
+   - SSLC | Scored 87.36%
 
 ## Skills
 - Python
