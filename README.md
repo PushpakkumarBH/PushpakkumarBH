@@ -36,7 +36,7 @@ Cloud enthusiast and full-stack developer with a passion for automating infrastr
 - [Movie-Timez](https://github.com/PushpakkumarBH/Movie-Timez) - The Online Movie Ticket Booking System allows users to order tickets for a show and gather information about movies and venues. 
 - [ssitieee](https://github.com/PushpakkumarBH/ssitieee) - Created Website for SSIT-IEEE for event "Space on Wheels"
 - [Object Detection in a image using ML](https://github.com/PushpakkumarBH/miniproject) - Object detection in a image using keras, Tensorflow Libraries.Designed a neural network to identify objects in a image.Designed various models to improve accuracy.
-- [SPEECH TRANSLATION FROM ENGLISH TO OTHER LANGUAGES USING NLP AND ML](https://github.com/PushpakkumarBH/speechApp)- Built a Node.js Application for speech translation using AWS Transcribe , Translate and Polly.For Scalability Purpose used AWS Lambda.Built a speech synthesis model using Tacotron2 and Hifi-GAN.
+- [Speech Translation From English To Other Languages Using NLP AND ML](https://github.com/PushpakkumarBH/speechApp)- Built a Node.js Application for speech translation using AWS Transcribe , Translate and Polly.For Scalability Purpose used AWS Lambda.Built a speech synthesis model using Tacotron2 and Hifi-GAN.
 ## Contact
 - Email: pushpak696@gmail.com
 - LinkedIn: [PushpakkumarBH](https://www.linkedin.com/in/pushpakkumar-bh-4555a11b0)
