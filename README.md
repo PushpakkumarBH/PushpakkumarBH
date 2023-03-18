@@ -40,7 +40,7 @@ Cloud enthusiast and full-stack developer with a passion for automating infrastr
 
 
 ## Contact
-- Email: pushpak696@gmail.com
+- Email: me@pushpakkumar.tech
 - LinkedIn: [PushpakkumarBH](https://www.linkedin.com/in/pushpakkumar-bh-4555a11b0)
 - Twitter: [@pushpak696](https://twitter.com/pushpak696)
 
