@@ -8,8 +8,8 @@
 Cloud enthusiast and full-stack developer with a passion for automating infrastructure and building scalable applications. Skilled in Node.js, Python, and AWS. Always looking to learn and tackle new challenges.
 
 ## Education
-- Sri Siddhartha Institute of Technology (2019 - Present)
-   - Bachelor's Degree in Electronics and communication | CGPA 8.35
+- Sri Siddhartha Institute of Technology (2019 - 2023)
+   - Bachelor's Degree in Electronics and communication | CGPA 8.32
 
 - Global PU College (2017 - 2019)
    - PCMC's | Scored 71.34%
@@ -30,7 +30,7 @@ Cloud enthusiast and full-stack developer with a passion for automating infrastr
 - Python: Skilled in using Python for both back-end development and data analysis.
 
 ## Experience
-- Secretary @ SSIT-IEEE (2022-Present)
+- Secretary @ SSIT-IEEE (2022-2023)
 
 ## Projects
 - [Speech Translation From English To Other Languages Using NLP AND ML](https://github.com/PushpakkumarBH/speechApp)- Built a Node.js Application for speech translation using AWS Transcribe , Translate and Polly.For Scalability Purpose used AWS Lambda.Built a speech synthesis model using Tacotron2 and Hifi-GAN.
@@ -40,8 +40,8 @@ Cloud enthusiast and full-stack developer with a passion for automating infrastr
 
 
 ## Contact
-- Email: me@pushpakkumar.tech
-- LinkedIn: [PushpakkumarBH](https://www.linkedin.com/in/pushpakkumar-bh-4555a11b0)
+- Email: pushpak696@gmail.com
+- LinkedIn: [PushpakkumarBH](https://www.linkedin.com/in/pushpakkumarbh)
 - Twitter: [@pushpak696](https://twitter.com/pushpak696)
 
 <!-- Using a GitHub widget to showcase your activity and contributions -->
